@@ -22,7 +22,7 @@ https://github.com/sjsilverstein*/
 .wrapper h1{
 	text-align: center;
 	font-size: 200%;
-	background-color: green;
+	background-color: red;
 }
 .images{
 	width: 59%;
@@ -43,6 +43,13 @@ https://github.com/sjsilverstein*/
 	margin: 10px 1%;
 	border-radius: 10px;
 	position: fixed;
+}
+.dexinfo h1{
+	border-radius: 10px;
+}
+.dexinfo .sprite img{
+	margin: 10px auto;
+	border: 2px solid black;
 }
 .sprite{
 	width: 20%;
